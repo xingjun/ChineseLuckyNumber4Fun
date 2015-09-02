@@ -10,6 +10,6 @@
 
 @interface NumberUtil : NSObject
 + (NSString *)totalStr ;
-+ (NSString *)find80:(int)num;
-+ (NSString *)find81:(int)num;
++ (NSString *)find80:(long long)num;
++ (NSString *)find81:(long long)num;
 @end
